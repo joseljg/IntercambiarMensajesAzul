@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntercambiarMensajesAzul</string>
+    <string name="enviar1">Enviar</string>
+    <string name="enviar2">Enviar</string>
+    <string name="escribe_tu_mensaje1">Escribe tu mensaje...</string>
+    <string name="escribe_tu_mensaje2">Escribe tu mensaje...</string>
+    <string name="pantalla1">Pantalla1</string>
+    <string name="pantalla2">Pantalla2</string>
+</resources>
